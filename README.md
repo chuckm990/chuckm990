@@ -8,11 +8,22 @@ I'm building my skills in modern data engineering — designing data warehouses,
 
 ### 🧰 Skills & Tech Stack
 
+**Languages & Tools**
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Core Competencies**
+
+- **Data Architecture & Engineering** — Data Architecture, Data Engineering, ETL Pipeline Development, Data Modeling
+- **SQL Development** — Window Functions, Common Table Expressions (CTEs), Percentile Functions
+- **Analytics** — Data Analytics, PostgreSQL Analytics, Customer Segmentation, Cohort Analysis, Retention Analysis, Business KPI Analysis
+- **Reporting & Visualization** — Data Visualization, Analytical Storytelling, Business-Oriented Reporting
 
 ---
 
